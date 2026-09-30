@@ -1,0 +1,6 @@
+{
+  "name": "AM I COOKED? 🔥 — The Unhinged Crisis Calculator",
+  "description": "Brutalist, meme-powered doom calculator for college chaos, missed deadlines, and life crises. Calculate your cooked percentage, view survival guides, and compete in the Hall of Shame.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
